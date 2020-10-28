@@ -5,7 +5,7 @@
 
 A React UI framework based on atomic design by Brad Frost.
 
-![hero](https://i.imgur.com/vgmwJvP.png)
+![hero](https://i.imgur.com/zVTCkPD.png)
 
 
 ---
