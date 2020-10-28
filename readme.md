@@ -1,11 +1,11 @@
 <p style="text-align: center" >
-    <img src="./logo.png" />
-    <h1 tyle="text-align: center" >Atomicle</h1>
+    <img src="https://i.imgur.com/dlmwDxq.png" width="75px" />
+    <h1 tyle="text-align: center" >P-Pine</h1>
 </p>
 
 A React UI framework based on atomic design by Brad Frost.
 
-![hero](./hero.png)
+![hero](https://i.imgur.com/vgmwJvP.png)
 
 
 ---
